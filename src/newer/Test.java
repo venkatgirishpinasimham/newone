@@ -10,7 +10,7 @@ public class Test {
 		
 		System.out.println("added some code");
 		
-		
+		System.out.println("added some code");
 	}
 	
 	
